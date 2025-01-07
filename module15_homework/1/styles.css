@@ -1,0 +1,6 @@
+.icon-hollow:before {
+    content: url('./hollow.svg');
+}
+.icon-full:before {
+    content: url('./full.svg');
+} 
